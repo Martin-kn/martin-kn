@@ -18,6 +18,7 @@ I'm currently working as a System Administrator.
 
  - Contact Book project with Flask and MySQL [Link](https://github.com/Martin-kn/agenda-contactos)
  - Simple Web Scrapper [Link](https://github.com/Martin-kn/Simple-Web-Scrapper)
+ - Password generator with export option - CLI [Link](https://github.com/Martin-kn/Python)
  - Tool to check ports/established connections, sessions and logins in Linux. 
 
  ## Home Lab:

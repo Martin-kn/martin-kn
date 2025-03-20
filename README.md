@@ -11,6 +11,9 @@ I'm currently working as a System Administrator.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=martin-kn&hide_progress=true)
 
+## Website:
+Personal website/blog [Link](https://martin-kn.github.io/blog2/)
+
 ## Scripts:
 
  - Powershell/Windows [Link](https://github.com/Martin-kn/Windows-Scripts)

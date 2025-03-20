@@ -9,6 +9,8 @@ I'm currently working as a System Administrator.
  - Cloud
  - Penetration Testing
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=martin-kn&hide_progress=true)
+
 ## Scripts:
 
  - Powershell/Windows [Link](https://github.com/Martin-kn/Windows-Scripts)

@@ -14,6 +14,11 @@ I'm currently working as a System Administrator.
 ## Website
 Personal website/blog [Link](https://martin-kn.github.io/blog2/)
 
+Posts:
+- How to create,delete and remap mountpoints in Windows Server/cluster [Link](https://martin-kn.github.io/blog2/posts/mountpoints/)
+- WinSxS Space Issues, Fix? [Link](https://martin-kn.github.io/blog2/posts/winsxs/)
+- Resize Kali linux VM in Virtualbox and VMware (or any other distro) [Link](https://martin-kn.github.io/blog2/posts/resize-kali-vm/)
+  
 ## Audit Tool - CLI
  <img src="https://github.com/Martin-kn/Audit-tool-CLI/raw/main/est-ports.png" width="55%"/>
  

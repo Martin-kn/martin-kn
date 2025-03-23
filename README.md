@@ -33,6 +33,8 @@ Suspicious IPs, login history, logs, listen ports/active connections, active use
  - Password generator with export option - CLI [Link](https://github.com/Martin-kn/Python)
  - Audit tool to check information in an easy-to-read and quick way [Link](https://github.com/Martin-kn/Audit-tool-CLI)
    - Suspicious IPs, login history, logs, listen ports/active connections, active users, services and export option.
+ - FastAPI:
+   - Practice project to create users and post [FastAPI+MySQL] 
      
 ## Scripts
 

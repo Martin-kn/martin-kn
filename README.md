@@ -37,4 +37,4 @@ Suspicious IPs, login history, logs, listen ports/active connections, active use
  
 
  ## Home Lab
- - Home server proyect with Proxmox, PFsense, Etc. Lab to be able to practice networking, security and implement different services for personal use. [Link](https://martin-kn.github.io/proyectos/)
+ - Home server proyect with Proxmox, PFsense, Etc. Lab to be able to practice networking, security and implement different services for personal use. [Link](https://martin-kn.github.io/blog2/posts/homelab/)

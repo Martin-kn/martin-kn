@@ -9,7 +9,11 @@ I'm currently working as a System Administrator.
  - Cloud
  - Penetration Testing
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=martin-kn&hide_progress=true)
+<!--
+#![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=martin-kn&hide_progress=true)
+-->
+[![github-stats-card](https://kasroudra-stats-card.onrender.com/lang?user=martin-kn&layout=compact&type=donut&theme=tokyonight&bdwidth=1&exclude_lang=HTML)](https://github.com/KasRoudra/github-stats-card)
+
 
 ## Website
 Personal website/blog [Link](https://martin-kn.github.io/blog2/)
@@ -35,7 +39,12 @@ Suspicious IPs, login history, logs, listen ports/active connections, active use
  - Audit tool to check information in an easy-to-read and quick way [Link](https://github.com/Martin-kn/Audit-tool-CLI)
    - Suspicious IPs, login history, logs, listen ports/active connections, active users, services and export option.
  - FastAPI:
-   - Practice project to create users and post [FastAPI+MySQL] 
+   - Practice project to create users and post [FastAPI+MySQL]
+
+### Data Science dashboard
+Top 10 cheapest alfajores with daily product quote (Python, Ploty, Pandas, PostgreSQL, Scraping) -  Private repo
+   
+  <img src="https://github.com/Martin-kn/blog1/raw/6709d62613d36539caf9bf223929a089c63d181d/dash.png" width="55%"/>
      
 ## Scripts
 

@@ -12,6 +12,7 @@ I'm currently working as a System Administrator.
 <!--
 #![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=martin-kn&hide_progress=true)
 -->
+
 [![github-stats-card](https://kasroudra-stats-card.onrender.com/lang?user=martin-kn&layout=compact&type=donut&theme=tokyonight&bdwidth=1&exclude_lang=HTML)](https://github.com/KasRoudra/github-stats-card)
 
 
@@ -44,7 +45,7 @@ Suspicious IPs, login history, logs, listen ports/active connections, active use
 ### Data Science dashboard
 Top 10 cheapest alfajores with daily product quote (Python, Ploty, Pandas, PostgreSQL, Scraping) -  Private repo
    
-  <img src="https://github.com/Martin-kn/blog1/raw/6709d62613d36539caf9bf223929a089c63d181d/dash.png" width="55%"/>
+  <img src="https://github.com/Martin-kn/Python/raw/07e7ca5da928a68a18f577862a21f61300e56671/images/dash.png" width="55%"/>
      
 ## Scripts
 

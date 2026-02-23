@@ -44,5 +44,6 @@ Suspicious IPs, login history, logs, listen ports/active connections, active use
 
  
 
- ## Home Lab
- - Home server proyect with Proxmox, PFsense, Etc. Lab to be able to practice networking, security and implement different services for personal use. [Link](https://martin-kn.github.io/blog2/posts/homelab/)
+ ## Proxmox Server
+ - Personal server that also works as a virtual firewall/router (hardware passthrough), reverse proxy. IaC implementation
+(Ansible, Terraform), CI/CD, Linux, containers. Monitoring (Grafana, Zabbix, Loki, Alloy). Nessus, NAS, VPN, 2FA. [Link](https://martin-kn.github.io/blog2/posts/homelab-2025-update/)

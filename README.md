@@ -3,11 +3,10 @@
 I'm currently working as a System Administrator.
 
 **My Interest**:
- - Cybersecurity
  - Gnu/Linux
- - Programming
  - Cloud
- - Penetration Testing
+ - Cybersecurity
+ - Programming
 
 <!--
 #![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=martin-kn&hide_progress=true)
@@ -17,13 +16,13 @@ I'm currently working as a System Administrator.
 
 
 ## Website
-Personal website/blog [Link](https://martin-kn.github.io/blog2/)
+Personal website/blog [Link](https://martinkn.com)
 
 Posts:
-- HomeLab 2025 Update [Link](https://martin-kn.github.io/blog2/posts/homelab-2025-update/)
-- How to create,delete and remap mountpoints in Windows Server/cluster [Link](https://martin-kn.github.io/blog2/posts/mountpoints/)
-- WinSxS Space Issues, Fix? [Link](https://martin-kn.github.io/blog2/posts/winsxs/)
-- Resize Kali linux VM in Virtualbox and VMware (or any other distro) [Link](https://martin-kn.github.io/blog2/posts/resize-kali-vm/)
+- HomeLab 2025 Update [Link](https://martinkn.com/posts/homelab-2025-update/)
+- How to create,delete and remap mountpoints in Windows Server/cluster [Link](https://martinkn.com/posts/mountpoints/)
+- WinSxS Space Issues, Fix? [Link](https://martinkn.com/posts/winsxs/)
+- Resize Kali linux VM in Virtualbox and VMware (or any other distro) [Link](https://martinkn.com/posts/resize-kali-vm/)
   
 ## Audit Tool - CLI
  <img src="https://github.com/Martin-kn/Audit-tool-CLI/raw/main/est-ports.png" width="55%"/>
@@ -56,4 +55,4 @@ Top 10 cheapest alfajores with daily product quote (Python, Ploty, Pandas, Postg
 
  ## Proxmox Server
  - Personal server that also works as a virtual firewall/router (hardware passthrough), reverse proxy. IaC implementation
-(Ansible, Terraform), CI/CD, Linux, containers. Monitoring (Grafana, Zabbix, Loki, Alloy). Nessus, NAS, VPN, 2FA. [Link](https://martin-kn.github.io/blog2/posts/homelab-2025-update/)
+(Ansible, Terraform), CI/CD, Linux, containers. Monitoring (Grafana, Zabbix, Loki, Alloy). Nessus, NAS, VPN, 2FA. [Link](https://martinkn.com/posts/homelab-2025-update/)

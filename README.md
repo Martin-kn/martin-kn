@@ -46,10 +46,12 @@ Top 10 cheapest alfajores with daily product quote (Python, Ploty, Pandas, Postg
    
   <img src="https://github.com/Martin-kn/Python/raw/07e7ca5da928a68a18f577862a21f61300e56671/images/dash.png" width="55%"/>
      
-## ⚙️ Scripts
+## ⚙️ Scripts & Linux
 
+ - Niri compiled package for Debian 13 Stable + Xwayland [Link](https://github.com/Martin-kn/niri)
  - Powershell/Windows [Link](https://github.com/Martin-kn/Windows-Scripts)
  - Bash [Link](https://github.com/Martin-kn/Scripts)
+
 
  
 

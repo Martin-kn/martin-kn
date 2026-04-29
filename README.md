@@ -15,7 +15,7 @@ I'm currently working as a System Administrator.
 [![github-stats-card](https://kasroudra-stats-card.onrender.com/lang?user=martin-kn&layout=compact&type=donut&theme=tokyonight&bdwidth=1&exclude_lang=HTML)](https://github.com/KasRoudra/github-stats-card)
 
 
-## Website
+## 🌐 Website
 Personal website/blog [Link](https://martinkn.com)
 
 Posts:
@@ -24,14 +24,14 @@ Posts:
 - WinSxS Space Issues, Fix? [Link](https://martinkn.com/posts/winsxs/)
 - Resize Kali linux VM in Virtualbox and VMware (or any other distro) [Link](https://martinkn.com/posts/resize-kali-vm/)
   
-## Audit Tool - CLI
+## 🛡️ Audit Tool - CLI
  <img src="https://github.com/Martin-kn/Audit-tool-CLI/raw/main/est-ports.png" width="55%"/>
  
 Audit tool to check information in an easy-to-read and quick way [Link](https://github.com/Martin-kn/Audit-tool-CLI)
 
 Suspicious IPs, login history, logs, listen ports/active connections, active users, services and export option.
 
-## Python
+## 🐍 Python
 
  - Contact Book project with Flask and MySQL [Link](https://github.com/Martin-kn/agenda-contactos)
  - Simple Web Scrapper [Link](https://github.com/Martin-kn/Simple-Web-Scrapper)
@@ -41,18 +41,18 @@ Suspicious IPs, login history, logs, listen ports/active connections, active use
  - FastAPI:
    - Practice project to create users and post [FastAPI+MySQL]
 
-### Data Science dashboard
+### 📊 Data Science dashboard
 Top 10 cheapest alfajores with daily product quote (Python, Ploty, Pandas, PostgreSQL, Scraping) -  Private repo
    
   <img src="https://github.com/Martin-kn/Python/raw/07e7ca5da928a68a18f577862a21f61300e56671/images/dash.png" width="55%"/>
      
-## Scripts
+## ⚙️ Scripts
 
  - Powershell/Windows [Link](https://github.com/Martin-kn/Windows-Scripts)
  - Bash [Link](https://github.com/Martin-kn/Scripts)
 
  
 
- ## Proxmox Server
+ ## 🖥️ Proxmox Server
  - Personal server that also works as a virtual firewall/router (hardware passthrough), reverse proxy. IaC implementation
 (Ansible, Terraform), CI/CD, Linux, containers. Monitoring (Grafana, Zabbix, Loki, Alloy). Nessus, NAS, VPN, 2FA. [Link](https://martinkn.com/posts/homelab-2025-update/)

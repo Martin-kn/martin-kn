@@ -1,6 +1,6 @@
 ## Hi there 👋, I'm Martin 
 
-I'm currently working as a System Administrator.
+I'm currently working as a Sysadmin/DevOps.
 
 **My Interest**:
  - Gnu/Linux
@@ -8,12 +8,12 @@ I'm currently working as a System Administrator.
  - Cybersecurity
  - Programming
 
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=martin-kn&hide_progress=true&theme=tokyonight)
+
 <!--
-#![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=martin-kn&hide_progress=true)
--->
-
 [![github-stats-card](https://kasroudra-stats-card.onrender.com/lang?user=martin-kn&layout=compact&type=donut&theme=tokyonight&bdwidth=1&exclude_lang=HTML)](https://github.com/KasRoudra/github-stats-card)
-
+-->
 
 ## 🌐 Website
 Personal website/blog [Link](https://martinkn.com)
@@ -33,13 +33,14 @@ Suspicious IPs, login history, logs, listen ports/active connections, active use
 
 ## 🐍 Python
 
- - Contact Book project with Flask and MySQL [Link](https://github.com/Martin-kn/agenda-contactos)
- - Simple Web Scrapper [Link](https://github.com/Martin-kn/Simple-Web-Scrapper)
- - Password generator with export option - CLI [Link](https://github.com/Martin-kn/Python)
+ - Self-Hosted Contact book App [Flask] [Link](https://github.com/Martin-kn/contact-book-app)
  - Audit tool to check information in an easy-to-read and quick way [Link](https://github.com/Martin-kn/Audit-tool-CLI)
    - Suspicious IPs, login history, logs, listen ports/active connections, active users, services and export option.
  - FastAPI:
    - Practice project to create users and post [FastAPI+MySQL]
+ - Password generator with export option - CLI [Link](https://github.com/Martin-kn/Python)
+ - Simple Web Scrapper [Link](https://github.com/Martin-kn/Simple-Web-Scrapper)
+  
 
 ### 📊 Data Science dashboard
 Top 10 cheapest alfajores with daily product quote (Python, Ploty, Pandas, PostgreSQL, Scraping) -  Private repo

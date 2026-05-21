@@ -1,16 +1,16 @@
 ## Hi there 👋, I'm Martin 
 
-I'm currently working as a Sysadmin/DevOps.
+Sysadmin with experience in Linux and Windows environments, virtualization, IaC and CI/CD. I maintain my own infraestructure/homelab where I apply and test what I use in production. Actively focused on cybersecurity: CTFs on HackTheBox and TryHackMe, vulnerability analysis and Linux hardening.
 
-**My Interest**:
- - Gnu/Linux
- - Cloud
- - Cybersecurity
- - Programming
+**Focus areas:**
+- Linux & Infrastructure
+- DevOps & IaC
+- Cybersecurity
+- Python & Scripting
 
-
+<!--
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=martin-kn&hide_progress=true&theme=tokyonight)
-
+-->
 <!--
 [![github-stats-card](https://kasroudra-stats-card.onrender.com/lang?user=martin-kn&layout=compact&type=donut&theme=tokyonight&bdwidth=1&exclude_lang=HTML)](https://github.com/KasRoudra/github-stats-card)
 -->
@@ -18,11 +18,13 @@ I'm currently working as a Sysadmin/DevOps.
 ## 🌐 Website
 Personal website/blog [Link](https://martinkn.com)
 
+Projects:
+- HomeLab — Self-Hosted Infrastructure & Security Lab [Link](https://www.martinkn.com/projects/homelab/)
+
 Posts:
-- HomeLab 2025 Update [Link](https://martinkn.com/posts/homelab-2025-update/)
 - How to create,delete and remap mountpoints in Windows Server/cluster [Link](https://martinkn.com/posts/mountpoints/)
 - WinSxS Space Issues, Fix? [Link](https://martinkn.com/posts/winsxs/)
-- Resize Kali linux VM in Virtualbox and VMware (or any other distro) [Link](https://martinkn.com/posts/resize-kali-vm/)
+- Resize Kali linux VM in Virtualbox or VMware [Link](https://martinkn.com/posts/resize-kali-vm/)
   
 ## 🛡️ Audit Tool - CLI
  <img src="https://github.com/Martin-kn/Audit-tool-CLI/raw/main/est-ports.png" width="55%"/>
@@ -33,13 +35,14 @@ Suspicious IPs, login history, logs, listen ports/active connections, active use
 
 ## 🐍 Python
 
- - Self-Hosted Contact book App [Flask] [Link](https://github.com/Martin-kn/contact-book-app)
+ - Self-Hosted Contact book App [Flask + Docker] [Link](https://github.com/Martin-kn/contact-book-app)
+   - Containerized web app designed for self-hosting. 
+   - Docker Hub image coming soon.
  - Audit tool to check information in an easy-to-read and quick way [Link](https://github.com/Martin-kn/Audit-tool-CLI)
    - Suspicious IPs, login history, logs, listen ports/active connections, active users, services and export option.
- - FastAPI:
-   - Practice project to create users and post [FastAPI+MySQL]
+ <!-- FastAPI:
+   - Practice project to create users and post [FastAPI+MySQL]  -->
  - Password generator with export option - CLI [Link](https://github.com/Martin-kn/Python)
- - Simple Web Scrapper [Link](https://github.com/Martin-kn/Simple-Web-Scrapper)
   
 
 ### 📊 Data Science dashboard
@@ -58,4 +61,4 @@ Top 10 cheapest alfajores with daily product quote (Python, Ploty, Pandas, Postg
 
  ## 🖥️ Proxmox Server
  - Personal server that also works as a virtual firewall/router (hardware passthrough), reverse proxy. IaC implementation
-(Ansible, Terraform), CI/CD, Linux, containers. Monitoring (Grafana, Zabbix, Loki, Alloy). Nessus, NAS, VPN, 2FA. [Link](https://martinkn.com/posts/homelab-2025-update/)
+(Ansible, Terraform), CI/CD, Linux, containers. Monitoring (Grafana, Zabbix, Loki, Alloy). Nessus, NAS, VPN, 2FA. [Link](https://www.martinkn.com/projects/homelab/)

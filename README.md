@@ -15,14 +15,14 @@ Sysadmin with experience in Linux and Windows environments, virtualization, IaC 
 [![github-stats-card](https://kasroudra-stats-card.onrender.com/lang?user=martin-kn&layout=compact&type=donut&theme=tokyonight&bdwidth=1&exclude_lang=HTML)](https://github.com/KasRoudra/github-stats-card)
 -->
 
-## 🌐 Website
-Personal website/blog [Link](https://martinkn.com)
+## 🌐 Portfolio & Blog
+ [martinkn.com](https://martinkn.com)
 
-Projects:
+**Projects:**
 - HomeLab — Self-Hosted Infrastructure & Security Lab [Link](https://www.martinkn.com/projects/homelab/)
 
-Posts:
-- How to create,delete and remap mountpoints in Windows Server/cluster [Link](https://martinkn.com/posts/mountpoints/)
+**Posts:**
+- Mountpoints in Windows Server — create, delete and remap [Link](https://martinkn.com/posts/mountpoints/)
 - WinSxS Space Issues, Fix? [Link](https://martinkn.com/posts/winsxs/)
 - Resize Kali linux VM in Virtualbox or VMware [Link](https://martinkn.com/posts/resize-kali-vm/)
   
@@ -38,12 +38,13 @@ Suspicious IPs, login history, logs, listen ports/active connections, active use
  - Self-Hosted Contact book App [Flask + Docker] [Link](https://github.com/Martin-kn/contact-book-app)
    - Containerized web app designed for self-hosting. 
    - Docker Hub image coming soon.
- - Audit tool to check information in an easy-to-read and quick way [Link](https://github.com/Martin-kn/Audit-tool-CLI)
+  <!--
+ - Audit Tool CLI — see dedicated section above [Link](https://github.com/Martin-kn/Audit-tool-CLI)
    - Suspicious IPs, login history, logs, listen ports/active connections, active users, services and export option.
- <!-- FastAPI:
-   - Practice project to create users and post [FastAPI+MySQL]  -->
+  FastAPI:
+   - Practice project to create users and post [FastAPI+MySQL] 
  - Password generator with export option - CLI [Link](https://github.com/Martin-kn/Python)
-  
+   -->
 
 ### 📊 Data Science dashboard
 Top 10 cheapest alfajores with daily product quote (Python, Ploty, Pandas, PostgreSQL, Scraping) -  Private repo

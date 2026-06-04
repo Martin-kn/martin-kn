@@ -8,13 +8,6 @@ Sysadmin with experience in Linux and Windows environments, virtualization, IaC 
 - Cybersecurity
 - Python & Scripting
 
-<!--
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=martin-kn&hide_progress=true&theme=tokyonight)
--->
-<!--
-[![github-stats-card](https://kasroudra-stats-card.onrender.com/lang?user=martin-kn&layout=compact&type=donut&theme=tokyonight&bdwidth=1&exclude_lang=HTML)](https://github.com/KasRoudra/github-stats-card)
--->
-
 ## 🌐 Portfolio & Blog
  [martinkn.com](https://martinkn.com)
 
@@ -25,6 +18,12 @@ Sysadmin with experience in Linux and Windows environments, virtualization, IaC 
 - Mountpoints in Windows Server — create, delete and remap [Link](https://martinkn.com/posts/mountpoints/)
 - WinSxS Space Issues, Fix? [Link](https://martinkn.com/posts/winsxs/)
 - Resize Kali linux VM in Virtualbox or VMware [Link](https://martinkn.com/posts/resize-kali-vm/)
+
+## ☁️ Multi-Cloud 
+### AWS Centralized Multi-Cloud Security Log Analyzer
+Serverless system on AWS that collects, analyzes, and alerts about security events from cloud servers. 
+
+📎 [github.com/Martin-kn/AWS-security-logs](https://github.com/Martin-kn/AWS-security-logs)
   
 ## 🛡️ Audit Tool - CLI
  <img src="https://github.com/Martin-kn/Audit-tool-CLI/raw/main/est-ports.png" width="55%"/>
@@ -38,13 +37,7 @@ Suspicious IPs, login history, logs, listen ports/active connections, active use
  - Self-Hosted Contact book App [Flask + Docker] [Link](https://github.com/Martin-kn/contact-book-app)
    - Containerized web app designed for self-hosting. 
    - Docker Hub image coming soon.
-  <!--
- - Audit Tool CLI — see dedicated section above [Link](https://github.com/Martin-kn/Audit-tool-CLI)
-   - Suspicious IPs, login history, logs, listen ports/active connections, active users, services and export option.
-  FastAPI:
-   - Practice project to create users and post [FastAPI+MySQL] 
- - Password generator with export option - CLI [Link](https://github.com/Martin-kn/Python)
-   -->
+   
 
 ### 📊 Data Science dashboard
 Top 10 cheapest alfajores with daily product quote (Python, Ploty, Pandas, PostgreSQL, Scraping) -  Private repo

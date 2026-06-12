@@ -24,6 +24,9 @@ Sysadmin with experience in Linux and Windows environments, virtualization, IaC 
 Serverless system on AWS that collects, analyzes, and alerts about security events from cloud servers. 
 
 📎 [github.com/Martin-kn/AWS-security-logs](https://github.com/Martin-kn/AWS-security-logs)
+
+
+<img src="https://github.com/Martin-kn/AWS-security-logs/blob/main/architecture.svg" width="55%"/>
   
 ## 🛡️ Audit Tool - CLI
  <img src="https://github.com/Martin-kn/Audit-tool-CLI/raw/main/est-ports.png" width="55%"/>

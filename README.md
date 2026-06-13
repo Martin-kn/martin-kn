@@ -27,6 +27,17 @@ Serverless system on AWS that collects, analyzes, and alerts about security even
 
 
 <img src="https://github.com/Martin-kn/AWS-security-logs/blob/main/architecture.svg" width="55%"/>
+
+### Oracle Cloud K3s Node — DevSecOps Stack
+
+K3s node on Oracle Cloud, connected via hybrid mesh network.
+- Bootstrapped with cloud-init, provisioned with Ansible                       
+- Hybrid mesh network (Headscale + OPNsense)
+- Full DevSecOps: ArgoCD, Kyverno, Falco, Trivy, Prometheus, Grafana  
+
+📎 [github.com/Martin-kn/k3s-cloud-public](https://github.com/Martin-kn/k3s-cloud-public)
+
+<img src="https://github.com/Martin-kn/k3s-cloud-public/blob/main/assets/architecture.svg" width="55%"/>
   
 ## 🛡️ Audit Tool - CLI
  <img src="https://github.com/Martin-kn/Audit-tool-CLI/raw/main/est-ports.png" width="55%"/>
